@@ -16,7 +16,7 @@ Python engineer with 6 years of experience building **backend, fullstack, data, 
 - ☁️ Scalable deployments (cloud & on-prem)  
 - 🔄 CI/CD & production-ready systems  
 
-I focus on **turning AI into usable products** — tools that help teams evaluate, deploy, and operate models in real-world environments.
+I focus on **turning AI into usable products**, tools that help teams evaluate, deploy, and operate models in real-world environments.
 
 ---
 
