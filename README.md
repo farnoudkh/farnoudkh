@@ -15,8 +15,3 @@ Python engineer with 6 years of experience building **backend, fullstack, data, 
 
 I focus on **turning AI into usable products**, tools that help teams evaluate, deploy, and operate models in real-world environments.
 
----
-
-## 📫 Contact
-
-- LinkedIn: *https://www.linkedin.com/in/farnoudkhaboshan/*
