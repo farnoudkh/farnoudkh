@@ -2,9 +2,6 @@
 
 **AI Engineer | Python | MLOps | LLM Systems**
 
-🏦 Building production-grade AI tools in a banking environment  
-📍 Paris
-
 ---
 
 ## 🚀 About Me
